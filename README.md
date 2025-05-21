@@ -14,6 +14,13 @@ It captures facial expressions via webcam and reflects a visual avatar and dashb
 - 🌗 Light/Dark mode toggle
 - ⚡ Powered by modern tools like Next.js, Tailwind CSS, and shadcn/ui
 
+- https://beta-mirror-nood.vercel.app/
+
+- ![image](https://github.com/user-attachments/assets/56134970-5601-4d77-a7bf-20c01c6d5523)
+- ![image](https://github.com/user-attachments/assets/6b0462b4-7aa7-4d8f-9d7c-7d2cb2df7e7c)
+
+
+
 ---
 
 ## 🛠 Tech Stack
